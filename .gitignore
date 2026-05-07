@@ -1,0 +1,10 @@
+.claude/
+*.env
+.env*
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+node_modules/
+*.log
