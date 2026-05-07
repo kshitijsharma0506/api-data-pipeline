@@ -23,9 +23,6 @@ Complex Make.com automation extracting nested API data with real-time Google She
 - REST APIs (Data Source)
 - Google Apps Script (Formatting)
 
-### Project Duration
-1 week | Budget: $500 | Completed: March 2026
-
 ### Client
 SaaS Company needing automated data extraction
 
